@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-1",
-      "name": "1",
+      "name": "1_應化一館頂樓 太陽能發電",
       "levels": [
         {
           "tileSize": 256,
@@ -46,7 +46,7 @@ var APP_DATA = {
     },
     {
       "id": "1-2",
-      "name": "2",
+      "name": "2_應化一館頂樓 太陽能發電",
       "levels": [
         {
           "tileSize": 256,
@@ -84,7 +84,7 @@ var APP_DATA = {
     },
     {
       "id": "2-3",
-      "name": "3",
+      "name": "3_行政大樓頂樓 太陽能發電",
       "levels": [
         {
           "tileSize": 256,
@@ -122,7 +122,7 @@ var APP_DATA = {
     },
     {
       "id": "3-4",
-      "name": "4",
+      "name": "4_機能館頂樓 風力發電",
       "levels": [
         {
           "tileSize": 256,
